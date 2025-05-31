@@ -1,0 +1,11 @@
+<div class="topNavLeft">
+	<strong>Navigation&nbsp;</strong>
+	<select id="boardList" onchange="window.location=this.options[this.selectedIndex].value">
+		<loop BOARDS>
+			<if $public><option value="//<var DOMAIN>/<var $dir>/">/<var $dir>/ - <var $name></option></if>
+		</loop>
+		<option value="http://<var DOMAIN>">Home</option>
+		<option value="#">--</option>
+		<option value="#">Select a board</option>
+	</select>
+</div>

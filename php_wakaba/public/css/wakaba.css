@@ -1,0 +1,19 @@
+/* Placeholder for wakaba.css - Main board styles */
+body { font-family: sans-serif; font-size: 10pt; margin: 0; padding: 0; background: #FFFFEE; color: #800000; }
+.reply { background: #F0E0D6; margin: 10px; padding: 5px; border: 1px solid #D9BFB7; }
+.postername { color: #117743; font-weight: bold; }
+.postertrip { color: #228854; }
+.filetitle { color: #CC1105; font-size: 1.2em; font-weight: bold; }
+.omittedposts { color: #707070; }
+.reflink a { color: #800000; text-decoration: none; }
+.reflink a:hover { color: #CC1105; }
+.adminbar { text-align: right; float: right; }
+.logo { text-align: center; font-size: 2em; color: #800000; margin: 1ex 0; }
+hr { border-style: solid none none none; border-width: 1px; border-color: #987970; }
+table { border-collapse: collapse; border-spacing: 0px; }
+td, th { padding: 0px; }
+form table tr td { padding: 2px; }
+.postblock { text-align:right; font-size:8pt; font-weight:bold; color:#800000; }
+.managehead { background: #AAAA66; color: #FFFFFF; font-weight: bold; padding: 2px; }
+.row1_admin { background: #E0E0D0; }
+.row2_admin { background: #D0D0B0; }

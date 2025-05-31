@@ -1,0 +1,8 @@
+/* Placeholder for manage.css - Admin panel styles */
+body.admin { background-color: #E0E8F0; }
+.adminNav { background-color: #D0D8E0; padding: 5px; border-bottom: 1px solid #A8B8C8; }
+.adminLogo .title { font-size: 1.5em; color: #333; }
+.dellist { font-weight: bold; background: #C0C8D0; padding: 3px; margin-bottom: 10px; text-align: center; }
+.ban-list { width: 90%; margin: 20px auto; border: 1px solid #AAA; }
+.ban-list th { background: #C8D0D8; padding: 5px; }
+.ban-list td { padding: 5px; border-bottom: 1px solid #CCC; }
